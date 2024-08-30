@@ -18,7 +18,7 @@ To get up and running with this stopwatch, follow these steps:
   
 INSTALLATION:
 Clone the Repository:
-git clone https://github.com/KSaayushofficial/stopwatch.git
+git clone https://github.com/KSaayushofficial/Stop-Watch.git
 
 Navigate to the Project Directory:
 cd stopwatch
