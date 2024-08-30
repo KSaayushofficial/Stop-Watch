@@ -12,7 +12,6 @@ This stopwatch features:
   
 GETTING STARTED?
 To get up and running with this stopwatch, follow these steps:
-
 - A modern web browser (e.g., Chrome, Firefox, Edge)
 - Basic understanding of HTML, CSS, and JavaScript (optional, but helpful)
   
